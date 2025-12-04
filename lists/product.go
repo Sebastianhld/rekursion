@@ -5,6 +5,6 @@ package lists
 // Verwenden Sie Rekursion und benutzen Sie NICHT die len-Funktion.
 // Sie können die Hilfsfunktion Empty aus empty.go verwenden.
 func Product(list []int) int {
-	// TODO
+
 	return 0
 }
